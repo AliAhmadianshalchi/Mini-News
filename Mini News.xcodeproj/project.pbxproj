@@ -66,13 +66,12 @@
 		413C42D72696253700D6137D /* Mini News */ = {
 			isa = PBXGroup;
 			children = (
-				413C42FC2698C2B000D6137D /* Cells */,
 				413C42F72698B71400D6137D /* Helpers */,
 				413C42F6269626FE00D6137D /* ViewModel */,
 				413C42EF2696259C00D6137D /* View */,
-				413C42EE2696255900D6137D /* Services */,
 				413C42ED2696255300D6137D /* Models */,
 				413C42EC2696254D00D6137D /* Controllers */,
+				413C42EE2696255900D6137D /* Services */,
 				413C42D82696253700D6137D /* AppDelegate.swift */,
 				413C42DA2696253700D6137D /* SceneDelegate.swift */,
 				413C42E12696253800D6137D /* Assets.xcassets */,
@@ -108,6 +107,7 @@
 		413C42EF2696259C00D6137D /* View */ = {
 			isa = PBXGroup;
 			children = (
+				413C42FC2698C2B000D6137D /* Cells */,
 				413C42E32696253800D6137D /* LaunchScreen.storyboard */,
 				413C42DE2696253700D6137D /* Main.storyboard */,
 			);
